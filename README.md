@@ -95,3 +95,13 @@ Response: The latest scandal in the White House is the "Signal leak scandal" whe
 $
 ```
 
+### Two Small Disclaimers ###
+* The `agent.py` script makes an API call to server.dev to obtain Google search
+  results.  You will need to sign up for a [serper.dev](https://serper.dev) account
+  and generate an API-KEY to run it.  Last time I checked serper.dev gives you 2,500
+  API searches for free with signup (no credit card needed).  If you don't want to do
+  that you can convert the search tool to using DuckDuckGo-Search.  That's free, but
+  you may be subject to throttling.
+* This code is provided for demonstration purposes only and is provided with
+  no warranty or guarantee.  Use it at your own peril.
+
