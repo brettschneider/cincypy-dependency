@@ -5,7 +5,7 @@ By: Steve Brettschneider - steve.brettschneider@pinnsg.com
 This is the source code from the demonstration of the Oooze dependency
 injector from the 3/27/2025 [CincyPy](https://cincypy.com) meeting.
 
-The accompanying Powerpoint presntation can be found here: 
+The accompanying PowerPoint presentation can be found here: 
 [etc/CincyPy Dependency Injection.pptx](./etc/CincyPy%20Dependency%20Injection.pptx)
 
 ## Scripts ##
